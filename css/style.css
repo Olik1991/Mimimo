@@ -117,3 +117,31 @@
     left: 10px;
     top: 10px;
   }
+  .button {
+    text-align: center;
+    margin-top: 70px;
+  }
+  .btn1 {
+    background-color: #FFFFFF;
+    color: #BCBCBC;
+    border: 1px solid #BCBCBC;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  footer {
+    background-color: #F0F0F0;
+   position: relative;
+   top: 150px;
+  }
+  .bi {
+    width: 24px;
+    height: 24px;
+    color: #8B8B8B;
+    position: relative;
+    top:0;
+  }
+  .foot {
+    position: relative;
+    left: 300px;
+    top: -9px;
+  }
